@@ -15,12 +15,10 @@ Users should be able to:
 
 - See hover states for interactive elements
 
-### Screenshot
+### Screenshots
 
 ![](./screenshots/desktop.png)
-
 ![](./screenshots/mobile.png)
-
 ![](./screenshots/hover_state.png)
 
 ### Links
